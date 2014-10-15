@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-project",
+  "version": "0.0.0",
+  "description": "a boilerplate",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "biolerplate"
+  ],
+  "author": "inti",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-cssmin": "~0.10.0",
+    "grunt-uncss": "~0.3.6",
+    "grunt-processhtml": "~0.3.3",
+    "grunt-contrib-clean": "~0.6.0",
+    "grunt-contrib-copy": "~0.6",
+    "grunt-contrib-watch": "~0.2.0",
+    "grunt-sass": "~0.15.0"
+  }
+}
